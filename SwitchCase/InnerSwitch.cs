@@ -48,6 +48,7 @@ namespace SwitchCase
                            Console.WriteLine("You chose Bike. It has 2 wheels!");
                            break;
 
+
                        default:
                            Console.WriteLine("Unknown vehicle.");
                            break;
