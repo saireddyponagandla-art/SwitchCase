@@ -12,13 +12,16 @@ namespace SwitchCase
         {
             // string a = " Rama";
             // int b = Convert.ToInt32(a);
-            float b = 14.0f;
+            float b = 96.0f;
             char c = (char)b;
             Console.WriteLine(c);
             float  C = 66.0f;
             char d = (char)C;
-            Console.WriteLine(d);
+           Console.WriteLine(d);
+            sbyte s = (sbyte)C;
+            Console.WriteLine(s);
            Console.ReadLine();
+
         }
         
 
