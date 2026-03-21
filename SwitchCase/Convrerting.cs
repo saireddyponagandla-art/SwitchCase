@@ -15,6 +15,9 @@ namespace SwitchCase
             float b = 14.0f;
             char c = (char)b;
             Console.WriteLine(c);
+            float  c = 66.0f;
+            char d = (char)c;
+            console.WriteLine(d);
 
         }
         
