@@ -1,29 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace SwitchCase
-{
-    internal class Convrerting
-    {
-        static void Main(string[] args)
-        {
-            // string a = " Rama";
-            // int b = Convert.ToInt32(a);
-            float b = 96.0f;
-            char c = (char)b;
-            Console.WriteLine(c);
-            float  C = 66.0f;
-            char d = (char)C;
-           Console.WriteLine(d);
-            sbyte s = (sbyte)C;
-            Console.WriteLine(s);
-           Console.ReadLine();
+//namespace SwitchCase
+//{
+//    internal class Convrerting
+//    {
+//        static void Main(string[] args)
+//        {
+//            // string a = " Rama";
+//            // int b = Convert.ToInt32(a);
+//            float b = 96.0f;
+//            char c = (char)b;
+//            Console.WriteLine(c);
+//            float  C = 66.0f;
+//            char d = (char)C;
+//           Console.WriteLine(d);
+//            sbyte s = (sbyte)C;
+//            Console.WriteLine(s);
+//           Console.ReadLine();
 
-        }
+//        }
         
 
-    }
-}
+//    }
+//}

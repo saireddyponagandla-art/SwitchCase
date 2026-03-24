@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Convrerting.cs" />
-    <Compile Include="FileName.cs" />
+    <Compile Include="ForLoop.cs" />
+    <Compile Include="ForLoopEx1.cs" />
+    <Compile Include="HomeworkSwitch.cs" />
     <Compile Include="InnerSwitch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
